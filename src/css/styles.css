@@ -54,3 +54,12 @@ button {
 
   margin-top: 10px;
 }
+.loader {
+  display: none;
+  text-align: center;
+  padding: 2rem;
+}
+
+.loader.visible {
+  display: block;
+}
